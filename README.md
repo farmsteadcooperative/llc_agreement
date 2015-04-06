@@ -2,6 +2,10 @@
 
 Welcome to the GitHub repository for the [Farmstead Cooperative](http://farmsteadcooperative.org) documents, a set of legal documents that were written for a forming and running a Maine LLC but may be used as a template to extend the idea of a Farmstead Cooperative would be helpful for a land owner.  For more information on this and these documents, please refer to the [Farmstead Cooperative blog](http://farmsteadcooperative.org) or our [Release Notes](https://github.com/farmsteadcooperative/llc_agreement/master/RELEASENOTES.md) here on GitHub.
 
+##Format
+
+The documents (other than .md) posted here are marked up in HTML5 to maintain the specific formatting of centered titles and indented sub-sections that were initially generated. My understanding is that this is a *standard* format for documents submitted to legal review. To help them render at farmsteadcooperative.org the same way they are rendered elsewhere, as well as when converted to a word processing format such as .docx, there is a minimal use of of carriage return/line feed used (thus an absense of white space) to prevent over spacing of each line and thus keeping the *rendered* pages as readable as possible.  The documents can be rendered as a Project Pages using [http://farmsteadcooperative.github.io/llc_agreement](http://farmsteadcooperative.github.io/llc_agreement).
+
 ## Contributing
 
 We welcome contributions in the form of issues or pull requests. All other comments can be [directed to the blog](http://farmsteadcooperative.org). 
